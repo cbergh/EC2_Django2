@@ -1,0 +1,14 @@
+/**
+ * Created with PyCharm.
+ * User: Chris Bergh
+ * Date: 9/6/13
+ * Time: 12:06 PM
+ * To change this template use File | Settings | File Templates.
+ */
+li a {
+    color: green;
+}
+
+body {
+    background: white url("images/background.jpg") no-repeat left top;
+}
